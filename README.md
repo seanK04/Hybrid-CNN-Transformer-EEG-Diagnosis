@@ -53,5 +53,3 @@ While designing our project, we ran into several challenges:
 Overall, we felt like our project was a success. While we did not meet our stretch goal of improving performance compared to all other models on our task, our accuracy was comparable to most advanced approaches and actually outperformed some of them. Initially, we had planned to design a multimodal model for our task but ended up not doing so due to the unexpected complexity of our dataset. 
 
 Our biggest takeaway from this project is that real datasets are HUGE. Compared to what we deal with in class, when people build models, they need to figure out ways of simply training the models such that their machine can handle it. We had to learn how to load and train our data in batches for this. In addition, data is far from perfect. Most datasets will be messy and hard to deal with, which is something we certainly experienced during this project. Preprocessing, cleaning, and augmentation can be a huge portion of the work.
-
-## Github Repository
