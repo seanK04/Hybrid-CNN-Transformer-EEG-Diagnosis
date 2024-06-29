@@ -35,7 +35,7 @@ Below is a comparison of our model’s performance compared to others:
 | Fourier Transform + ViT             | 0.318432       |
 | ViT Pre-Trained Vision Transformer  | 0.457420       |
 | CNN + LSTM + Multimodal Input       | 0.500874       |
-| CNN + Transformer                   | 0.550406       |
+| **CNN + Transformer**                   | **0.550406**       |
 | EEG + Spectrogram + 2D CNN          | 0.610243       |
 | CNN + LSTM with only EEG data       | 1.101587       |
 | 1D CNN (Time Series & Image)        | 1.106557       |
