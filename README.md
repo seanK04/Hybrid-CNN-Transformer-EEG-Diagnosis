@@ -46,8 +46,7 @@ Our model achieves comparable performance to most other approaches, outperformin
 
 While designing our project, we ran into several challenges:
 - **Large Dataset and Complex Model Architecture:** Our dataset was large and our model architecture was very complex with many trainable parameters leading to long training times. To address this, we loaded data and trained the model in batches, saving the weights in between.
-- **Difficulties with EEG Data:** The EEG data was difficult to work with and we had trouble with the feature extraction we had initially proposed. While we were unable to extract features for a multimodal approach, we performed heavy data augmentation and created multiple spectrograms for each input.
-
+  
 ## Reflection
 
 Overall, we felt like our project was a success. While we did not meet our stretch goal of improving performance compared to all other models on our task, our accuracy was comparable to most advanced approaches and actually outperformed some of them. Initially, we had planned to design a multimodal model for our task but ended up not doing so due to the unexpected complexity of our dataset. 
